@@ -22,5 +22,5 @@ canvas.drawBitmap(mBitmap,0,0,null);
 ```
 后来发现不行，bitmapCanvas 的 translate 居然是相对的，就是说不如 bitmapCanvas.translate(1,0)，按理说，
 不管调用多少次始终只是平移到（-1，0）的位置，但是实际运行运行的效果是，每调用一次，他就平移一次，一直移动。
-令我困惑的是，在onDraw（）的参数canvas 又不是相对的，就是绝对平移的。这个是正常的。如果有谁知道，请告知小弟一声啊（微信：hi54wht）.
-##MaHua有哪些功能？
+令我困惑的是，在onDraw（）的参数canvas 又不是相对的，就是绝对平移的。这个是正常的。如果有谁知道，请告知小弟一声啊。
+
