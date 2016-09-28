@@ -1,8 +1,8 @@
 
 ##缘起
-首先说一下这个效果的[来源](https://material.uplabs.com/search?q=dots%20pre)，如图所示（外网网速慢）：
+首先说一下这个效果的[来源](https://material.uplabs.com/posts/dots-preloader)，如图所示（外网网速慢）：
 
-![uplab上的效果](https://assets.materialup.com/uploads/1d048d3d-bc79-40b0-8d79-13149799efa0/preview.gif)
+![uplab上的效果](https://assets.materialup.com/uploads/1df992f1-6702-42d7-bbe1-b1b5b1e9872f/preview.gif)
 
 ##我的工作
 还是挺好看的，我就试着实现了一下，暂时就像先这样，有时间有动力再考虑做个lib
